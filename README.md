@@ -4,5 +4,6 @@
   <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
   <a href="https://www.oracle.com/kr/index.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-    
+  <a href="https://https://visualstudio.microsoft.com/ko//" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
+  <a href="https://code.visualstudio.com//" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"></a>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohyuchan123&show_icons=true&locale=en&" alt="ohyuchan123" /></p>
