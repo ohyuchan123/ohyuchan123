@@ -11,5 +11,5 @@
   <a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>
   <br>
   ![ohyuchan123's github stats](https://github-readme-stats.vercel.app/api?username=ohyuchan123&theme=radical&show_icons=true)
-  ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&layout=compact&thema=merko)
+  ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&layout=compact&thema=merko) 
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuchan123"></p>
