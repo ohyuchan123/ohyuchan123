@@ -1,7 +1,7 @@
-### Hi there 👋
-#### My name is Oh Yu Chan 
-###### I'm currently attending Gwangju Software Meister High School. 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ohyuchan!%20&fontSize=90)<div align="center">
+  ### Hi there 👋
+  #### My name is Oh Yu Chan 
+  ###### I'm currently attending Gwangju Software Meister High School. 
   ![ohyuchan123's github stats](https://github-readme-stats.vercel.app/api?username=ohyuchan123&theme=radical&show_icons=true)
   ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&layout=compact&thema=merko)
   <div align="center">
