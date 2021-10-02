@@ -13,5 +13,7 @@
   ![ohyuchan123's github stats](https://github-readme-stats.vercel.app/api?username=ohyuchan123&theme=radical&show_icons=true)
   ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&layout=compact&thema=merko)
   ![Snake animation](https://github.com/ohyuchan123/ohyuchan123/blob/output/github-contribution-grid-snake.svg)
-  ![yuchan123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yuchan123)
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuchan123">
+  <p>
+    <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yuchan123"/>
+    <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=yuchan123"/>
+  </p>
