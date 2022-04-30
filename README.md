@@ -5,7 +5,7 @@
 ##### I am currently studying the backend<br>Although I still lack a lot, I want to be a good developer
 - :octocat: I'm currently studying spring and Python
 - :mortar_board: I am currently attending Gwangju Software Meister High School 
-<img align="left" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="100" height="100"/>
+<img align="left" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="300" height="300"/>
 <div>
   <a href="https://github.com/ohyuchan123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohyuchan123&show_icons=true&include_all_commits=true&count_private=true"/>
