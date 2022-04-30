@@ -6,5 +6,8 @@
 - :octocat: I'm currently studying spring and Python
 - :mortar_board: I am currently attending Gwangju Software Meister High School 
 
-![yuchan123's github stats](https://github-readme-stats.vercel.app/api?username=yuchan123&show_icons=true)
-[![ohyuchan123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ohyuchan123)
+<div>
+  <a href="https://github.com/ohyuchan123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohyuchan123&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohyuchan123&layout=compact&langs_count=6"/>
+</div>
