@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=DevOps&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 ## 🤔 About me
 <a href="https://velog.io/@ohyuchan123"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohyuchan123"/></a>
-<a href="https://dobby-log.vercel.app"><img src="https://img.shields.io/badge/Dobby's-Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=black&link=https://dobby-log.vercel.app"/></a>
+<img src="https://img.shields.io/badge/🐷 pig_notion_blog-20232a.svg?style=lat-square&logoColor=#FFFFF" />
+
 
 
 - 저는 Cloud Engineer가 되기 위해서 공부 중이며 백엔드 개발 분야에서도 경험을 쌓고 있습니다.
