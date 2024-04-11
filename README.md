@@ -2,7 +2,7 @@
 
 ## 🤔 About me
 <a href="https://velog.io/@ohyuchan123"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ohyuchan123"/></a>
-<a href="https://yuchan-log.notion.site/c06e9f76fa4a419983ad7821c2db3066?pvs=4"><img src="https://img.shields.io/badge/🐷 pig_notion_blog-20232a.svg?style=lat-square&logoColor=#FFFFF" />
+<a href="https://yuchan-log.notion.site/5675c9d0aabf4e42af8377979ec9463f?pvs=4"><img src="https://img.shields.io/badge/🐷 pig_notion_blog-20232a.svg?style=lat-square&logoColor=#FFFFF" />
 
 
 
