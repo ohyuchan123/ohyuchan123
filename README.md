@@ -11,34 +11,51 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
   
 ## 🛠️ Tech Stack
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> Language
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
-</div>
+<div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
+<table>
+  <tr>
+    <th><h3 align="center">Language</h3></th>
+    <th><h3 align="center">Backend</h3></th>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Cloud</h3></th>
+    <th><h3 align="center">Tools</h3></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=redis" alt="redis" />
+      </a>
+    </td>
+     <td>
+      <a href="https://skillicons.dev">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Git, GitHub, GitLab, VS Code" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
+        <img src="https://skillicons.dev/icons?i=figma,nginx,postman,visualstudio,idea" alt="Figma, Nginx, Postman, Visual Studio, Idea" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Server" width="25" height="25" /> Backend
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Cloud" width="25" height="25" /> AWS
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white">
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
-</div>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tools
-<div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-</div>
