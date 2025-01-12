@@ -8,6 +8,32 @@
 Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐시 적용,  Spring Security 기반 인증 구현 등   
 실제 서비스에 필요한 기술들을 프로젝트에  적용하며 경험을 쌓고 있습니다. 모든 개발 과정에서 코드 품질과 사용자 경험을  
 최우선으로 고려하며, 이를 위해  지속적인 리팩토링과 성능 최적화에 노력을 기울이고 있습니다.
+
+### 🔗 Contact Me
+<table>
+  <tr>
+    <th><h3 align="center">Email</h3></th>
+    <th><h3 align="center">LinkedIn</h3></th>
+    <th><h3 align="center">Blog</h3></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:ohyuchan50@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ohyuchan">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://yuchan-log.vercel.app/">
+        <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
+      </a>
+    </td>
+  </tr>
+</table>
   
 ## 🛠️ Tech Stack
 
@@ -71,3 +97,4 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohyuchan123&theme=github)](https://github.com/ohyuchan123)
 
 </div>
+
