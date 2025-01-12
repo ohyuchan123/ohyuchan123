@@ -32,7 +32,9 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,gradle,nginx&theme=light" alt="Spring,Gradle, Nginx" />
+        <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=gradle&theme=light" alt="Gradle" />
+        <img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx" />
       </a>
     </td>
     <td>
