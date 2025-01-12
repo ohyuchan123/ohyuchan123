@@ -32,14 +32,13 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=spring,gradle,nginx&theme=light" alt="Spring,Gradle, Nginx" />
       </a>
     </td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-        <img src="https://skillicons.dev/icons?i=redis" alt="redis" />
+        <img src="https://skillicons.dev/icons?i=mongodb,redis" alt="MongoDB, redis" />
       </a>
     </td>
      <td>
@@ -50,9 +49,8 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" alt="Git, GitHub, GitLab, VS Code" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
-        <img src="https://skillicons.dev/icons?i=figma,nginx,postman,visualstudio,idea" alt="Figma, Nginx, Postman, Visual Studio, Idea" />
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,grafana" alt="Git, GitHub, GitAction, VS Code, Grafana" />
+        <img src="https://skillicons.dev/icons?i=figma,notion,postman,visualstudio,idea" alt="Figma, Notin, Postman, Visual Studio, Idea" />
       </a>
     </td>
   </tr>
