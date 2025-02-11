@@ -24,7 +24,7 @@ Spring Boot와 JPA를 활용한 API 개발에 주력하며, Redis를 통한 캐�
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" />
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" />
         <img src="https://skillicons.dev/icons?i=c" alt="C" />
       </a>
     </td>
